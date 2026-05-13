@@ -1,0 +1,13 @@
+## Interface: 30403
+## Title: xlm - 学了么
+## Notes: qwerty-learner 风格的魔兽世界内英语/代码词汇练习。
+## Author: 奥山
+## Version: 0.2.0
+## X-License: GPL-3.0-or-later
+## SavedVariables: XLM_DB
+
+storage.lua
+dictionaries.lua
+dictionaries_cet.lua
+ui.lua
+main.lua
